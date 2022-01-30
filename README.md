@@ -18,7 +18,7 @@ There are overall 64.9% students passing in the 15 schools.
 Due to the academic dishonesty, Thomas High School 9th's math and reading scores are replaced with NAs. However, this replacement brings the average scores in math, reading, and overall % competitively lower than other schools.
 <img src="Images/THS_NA.png">
 
-To fairly evaluate the Thomas High School performance, we should re-calculate the average passing% by excluding the THS 9th students, and this results a better performance to THS, and THS ranks at #2 over the 15 schools
+To fairly evaluate the Thomas High School performance, we should re-calculate the average passing% by excluding the THS 9th students from the total students, and this results a better performance to THS, and THS ranks at #2 over the 15 schools after the adjustment.
 <img src="Images/Top_5.png">
 
 ### Replacing 9th grade impacts
