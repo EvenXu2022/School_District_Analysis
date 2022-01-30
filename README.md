@@ -21,12 +21,12 @@ Due to the academic dishonesty, Thomas High School 9th's math and reading scores
 To fairly evaluate the Thomas High School performance, we should re-calculate the average passing% by excluding the THS 9th students from the total students, and this results a better performance to THS, and THS ranks at #2 over the 15 schools after the adjustment.
 <img src="Images/Top_5.png">
 
-### Replacing 9th grade impacts
+### Replacing 9th grade impacts (Exclude 9th grade student from total Students)
 
-- No impact to math and reading scores by grade since THS school 9th scores is isolated from the by grade summary, and stays as NA.
+- No impact to math and reading scores by grade since THS school 9th scores are isolated from the by grade summary, and stay as NA.
 - It brings math, reading and overall passing% relatively higher in the bucket "$629-624" based of the school by spending summary.
-- It also gives Medium School(1000-2000) better performance on passing%. 
-- It again brings the "Charter" school higher passing% based on School Type.
+- It also gives Medium School(1000-2000) better performance on average passing%. 
+- It again brings the "Charter" school higher average passing% based on School Type.
 
 ## Summary
 
